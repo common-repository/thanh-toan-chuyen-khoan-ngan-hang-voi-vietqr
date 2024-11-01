@@ -1,0 +1,133 @@
+# Copyright (C) 2023 SBH Team
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: SBH 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sobanhang.com/plugin-wordpress\n"
+"Last-Translator: Orwell <thien.tran@sobanhang.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-16T16:14:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: ttckvsbh\n"
+
+msgid "SBH Team"
+msgstr ""
+
+msgid "Payment status goes failed."
+msgstr ""
+
+msgid "Attention: The permalink structure is currently set to \"Plain\". Consider changing it!"
+msgstr ""
+
+msgid "SBH Key"
+msgstr ""
+
+msgid "Sign Up"
+msgstr ""
+
+msgid "Do you have key? <a class=\"button-primary\" href=\"https://bit.ly/3LnTil8\" target=\"_blank\">Signup</a>"
+msgstr ""
+
+msgid "Partner Code"
+msgstr ""
+
+msgid "Attention: Currency does not supported!"
+msgstr ""
+
+msgid "Using VietQR with info below"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Memo"
+msgstr ""
+
+msgid "Payment Success"
+msgstr ""
+
+msgid "Active Webhook"
+msgstr ""
+
+msgid "Active Website"
+msgstr ""
+
+msgid "Active not success"
+msgstr ""
+
+msgid "We auto-generate VietQR code, supporting over 40 banks in Vietnam such as VCB, TCB, ACB, MB, MSB, HDB, SHB... Auto-update the payment status in your orders. Support for balance fluctuation notifications via Lark/Telegram bot. Fast - Simple - Economical!"
+msgstr ""
+
+msgid "In the beta version, only one banking account is accepted"
+msgstr ""
+
+msgid "For each order, the bank will automatically create a subsidiary account to manage payments. Upon successful completion of the transaction, the balance from this subsidiary account will be immediately transferred to your main account."
+msgstr ""
+
+msgid "Banking transfer"
+msgstr ""
+
+msgid "Support banking services with over 40 banks, including Vietcombank (VCB), Techcombank (TCB), Asia Commercial Bank (ACB), Military Bank (MB), Maritime Bank (MSB), HDBank (HDB), and many others."
+msgstr ""
+
+msgid "Bank Transfer with VietQR powered by SoBanHang"
+msgstr ""
+
+msgid "Bank transfer"
+msgstr ""
+
+msgid "After entering your SBH Key and Partner Code, click here to active your website "
+msgstr ""
+
+msgid "After entering your SBH Key and Partner Code, click here to active your hook "
+msgstr ""
+
+msgid "Order statuses where you want to display the QRCode"
+msgstr ""
+
+msgid "Select the statuses for which you want the QRCode to be displayed on the order details page."
+msgstr ""
+
+msgid "Order Status for Displaying Successful Payment Page"
+msgstr ""
+
+msgid "Order status upon successful payment"
+msgstr ""
+
+msgid "Payment status goes "
+msgstr ""
+
+msgid "Excess amount: "
+msgstr ""
+
+msgid "Invalid payment status in options."
+msgstr ""
+
+msgid "Invalid payment status format in options."
+msgstr ""
+
+msgid "Select the order status you want to display the successful payment page."
+msgstr ""
+
+msgid "Enter the token for your Telegram Bot. You can obtain this token by creating a new bot through BotFather on Telegram."
+msgstr ""
+
+msgid "Enter the ID of the Telegram chat or group where you want to send notifications. You can obtain this ID through other bots like @userinfobot."
+msgstr ""
+
+msgid "Enter the webhook URL for your Lark Bot to send notifications. This URL is usually provided when you create a bot on Lark."
+msgstr ""
+
+msgid "Successful payment for order %s, amount %s, transaction time %s for account %s, detail at %s."
+msgstr ""
+
+msgid "URL for Successful Payment"
+msgstr ""
+
+msgid "Leave empty for the default URL."
+msgstr ""

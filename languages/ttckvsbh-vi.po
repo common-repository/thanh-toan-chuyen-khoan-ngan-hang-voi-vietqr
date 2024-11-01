@@ -1,0 +1,133 @@
+# Copyright (C) 2023 SBH Team
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: SBH 1.0.0\n"
+"Report-Msgid-Bugs-To: https://sobanhang.com/plugin-wordpress\n"
+"POT-Creation-Date: 2022-06-16T16:14:02+00:00\n"
+"PO-Revision-Date: 2024-04-26 09:04+0700\n"
+"Last-Translator: Orwell <thien.tran@sobanhang.com>\n"
+"Language-Team: \n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Domain: ttckvsbh\n"
+
+msgid "SBH Team"
+msgstr "Đội SBH"
+
+msgid "Payment status goes failed."
+msgstr "Trạng thái thanh toán không thành công."
+
+msgid "Attention: The permalink structure is currently set to \"Plain\". Consider changing it!"
+msgstr "Chú ý: Cấu trúc permalink hiện được đặt thành \"Plain\". Hãy thay đổi để nhận kết quả thanh toán tức thời!"
+
+msgid "SBH Key"
+msgstr "Mã SBH"
+
+msgid "Sign Up"
+msgstr "Đăng ký"
+
+msgid "Do you have key?"
+msgstr "Bạn có Mã SBH chưa?"
+
+msgid "Partner Code"
+msgstr "Mã Đối Tác"
+
+msgid "Attention: Currency does not supported!"
+msgstr "Chú ý: Tiền tệ không được hỗ trợ!"
+
+msgid "Using VietQR with info below"
+msgstr "Sử dụng VietQR với thông tin bên dưới"
+
+msgid "Amount"
+msgstr "Số tiền"
+
+msgid "Memo"
+msgstr "Nội dung chuyển khoản"
+
+msgid "Payment Success"
+msgstr "Thanh toán thành công"
+
+msgid "Active Webhook"
+msgstr "Kích hoạt Webhook"
+
+msgid "Active Website"
+msgstr "Kích hoạt website"
+
+msgid "Active not success"
+msgstr "Kích hoạt không thành công"
+
+msgid "We auto-generate VietQR code, supporting over 40 banks in Vietnam such as VCB, TCB, ACB, MB, MSB, HDB, SHB... Auto-update the payment status in your orders. Support for balance fluctuation notifications via Lark/Telegram bot. Fast - Simple - Economical!"
+msgstr "Chúng tôi tự động tạo mã VietQR, hỗ trợ trên 40 ngân hàng tại Việt Nam như VCB, TCB, ACB, MB, MSB, HDB, SHB... Tự động cập nhật trạng thái thanh toán trong đơn hàng của bạn. Hỗ trợ thông báo biến động số dư qua bot Lark/Telegram. Nhanh chóng - Đơn giản - Tiết kiệm!"
+
+msgid "In the beta version, only one banking account is accepted"
+msgstr "Ở phiên bản beta, chỉ chấp nhận một tài khoản ngân hàng"
+
+msgid "For each order, the bank will automatically create a subsidiary account to manage payments. Upon successful completion of the transaction, the balance from this subsidiary account will be immediately transferred to your main account."
+msgstr "Đối với mỗi đơn hàng, ngân hàng sẽ tự động khởi tạo một tài khoản phụ để quản lý việc thanh toán. Khi giao dịch hoàn tất, số dư trong tài khoản phụ sẽ được chuyển ngay lập tức vào tài khoản chính của bạn."
+
+msgid "Banking transfer"
+msgstr "Chuyển khoản ngân hàng"
+
+msgid "Support banking services with over 40 banks, including Vietcombank (VCB), Techcombank (TCB), Asia Commercial Bank (ACB), Military Bank (MB), Maritime Bank (MSB), HDBank (HDB), and many others."
+msgstr "Hỗ trợ dịch vụ ngân hàng với hơn 40 ngân hàng, bao gồm Vietcombank (VCB), Techcombank (TCB), Á Châu ACB), Quân Đội (MB), Hàng Hải (MSB), HDBank (HDB), và nhiều ngân hàng khác."
+
+msgid "Bank Transfer with VietQR powered by SoBanHang"
+msgstr "Chuyển khoản ngân hàng với VietQR cung cấp bởi SoBanHang"
+
+msgid "Bank transfer"
+msgstr "Chuyển khoản ngân hàng"
+
+msgid "After entering your SBH Key and Partner Code, click here to active your website "
+msgstr "Sau khi nhập Mã SBH và Mã Đối Tác, nhấp vào đây để kích hoạt trang web của bạn "
+
+msgid "After entering your SBH Key and Partner Code, click here to active your webhook "
+msgstr "Sau khi nhập Mã SBH và Mã Đối Tác, nhấp vào đây để kích hoạt webhook của bạn "
+
+msgid "Order statuses where you want to display the QRCode"
+msgstr "Những trạng thái đơn hàng bạn muốn hiện QRCode"
+
+msgid "Select the statuses for which you want the QRCode to be displayed on the order details page."
+msgstr "Chọn các trạng thái đơn hàng mà bạn muốn QRCode được hiển thị trên trang chi tiết đơn hàng."
+
+msgid "Order Status for Displaying Successful Payment Page"
+msgstr "Trạng thái đơn hàng để hiển thị trang thanh toán thành công"
+
+msgid "Order status upon successful payment"
+msgstr "Trạng thái đơn hàng khi thanh toán thành công"
+
+msgid "Payment status goes "
+msgstr "Trạng thái đơn hàng đã được chuyển sang "
+
+msgid "Excess amount: "
+msgstr "Số tiền thừa: "
+
+msgid "Invalid payment status in options."
+msgstr "Cài đặt trạng thái thanh toán thành công không hợp lệ."
+
+msgid "Invalid payment status format in options."
+msgstr "Định dạng trạng thái thanh toán thành công không hợp lệ."
+
+msgid "Select the order status you want to display the successful payment page."
+msgstr "Chọn trạng thái đơn hàng bạn muốn hiển thị trên trang thanh toán thành công."
+
+msgid "Enter the token for your Telegram Bot. You can obtain this token by creating a new bot through BotFather on Telegram."
+msgstr "Nhập token của Telegram Bot. Bạn có thể lấy token này khi tạo một bot mới thông qua BotFather trên Telegram."
+
+msgid "Enter the ID of the Telegram chat or group where you want to send notifications. You can obtain this ID through other bots like @userinfobot."
+msgstr "Nhập ID của chat hoặc nhóm Telegram mà bạn muốn gửi thông báo đến. ID này có thể lấy thông qua các bot khác như @userinfobot."
+
+msgid "Enter the webhook URL for your Lark Bot to send notifications. This URL is usually provided when you create a bot on Lark."
+msgstr "Nhập URL webhook của Lark Bot để gửi thông báo. URL này thường được cung cấp khi bạn tạo một bot trên Lark."
+
+msgid "Successful payment for order %s, amount %s, transaction time %s for account %s, detail at %s."
+msgstr "Thanh toán thành công đơn hàng %s, số tiền %s, thời điểm giao dịch %s cho tài khoản %s, chi tiết tại %s."
+
+msgid "URL for Successful Payment"
+msgstr "URL khi thanh toán thành công"
+
+msgid "Leave empty for the default URL."
+msgstr "Để trống sẽ sử dụng URL mặc định."
